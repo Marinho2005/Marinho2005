@@ -33,6 +33,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend & Ferramentas
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
