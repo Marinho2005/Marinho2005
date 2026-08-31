@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá, eu sou o <span style="font-size: 2.6em;">Victor Marinho</span></h1>
-  <h2 style="font-size: 2.0em;">🎓 Engenheiro da Computação & Desenvolvedor de Software</h2>
+  <h2 style="font-size: 2.0em;">🎓 Estudante de Engenharia da Computação & Desenvolvedor de Software</h2>
 </div>
 
 <p style="font-size: 1.3em;">
