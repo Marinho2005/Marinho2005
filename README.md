@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Software Developer and Computer Engineering graduate from Brazil. My work combines full-stack web development, embedded systems and IoT. I build complete solutions, from web and mobile interfaces to hardware integrations and cloud-backed APIs, with engineering as the foundation for creating scalable systems.
+I am a Software Developer and Computer Engineering undergraduate from Brazil. My work combines full-stack web development, embedded systems and IoT. I build complete solutions, from web and mobile interfaces to hardware integrations and cloud-backed APIs, with engineering as the foundation for creating scalable systems.
 
 My focus areas include:
 
